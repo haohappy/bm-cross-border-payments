@@ -1,0 +1,134 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="跨境支付资金流转全流程（EUR → USD）" id="flow1">
+    <mxGraphModel dx="831" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="550" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#333333;" value="跨境支付资金流转全流程（EUR → USD）" vertex="1">
+          <mxGeometry height="40" width="440" x="200" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sender" parent="1" style="shape=mxgraph.basic.person;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="付款方&#xa;（德国买家）" vertex="1">
+          <mxGeometry height="80" width="90" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="senderBank" parent="1" style="shape=cylinder3;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;size=10;" value="付款方银行&#xa;（Deutsche Bank）" vertex="1">
+          <mxGeometry height="70" width="120" x="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="platform" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontStyle=1;shadow=1;arcSize=20;" value="跨境支付平台&#xa;（Wise / Airwallex / Legend Pay）" vertex="1">
+          <mxGeometry height="60" width="220" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="poolEUR" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontStyle=1;" value="EUR 资金池" vertex="1">
+          <mxGeometry height="45" width="110" x="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fx" parent="1" style="rhombus;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontStyle=1;" value="FX 引擎&#xa;外汇兑换" vertex="1">
+          <mxGeometry height="80" width="130" x="355" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="poolUSD" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="USD 资金池" vertex="1">
+          <mxGeometry height="45" width="110" x="560" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="netting" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;dashed=1;dashPattern=5 5;" value="Netting 内部撮合&#xa;（反向需求直接匹配）" vertex="1">
+          <mxGeometry height="45" width="160" x="340" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="interbank" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" value="银行间外汇市场&#xa;（Interbank Market）" vertex="1">
+          <mxGeometry height="40" width="150" x="130" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="receiverBank" parent="1" style="shape=cylinder3;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;size=10;" value="收款方银行&#xa;（JPMorgan Chase）" vertex="1">
+          <mxGeometry height="70" width="130" x="550" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="receiver" parent="1" style="shape=mxgraph.basic.person;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="收款方&#xa;（美国卖家）" vertex="1">
+          <mxGeometry height="80" width="80" x="740" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="float" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;dashed=1;dashPattern=5 5;" value="Float 资金沉淀&#xa;赚取利息收入" vertex="1">
+          <mxGeometry height="40" width="130" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hedge" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;dashed=1;dashPattern=5 5;" value="Hedging 对冲&#xa;远期/期权合约" vertex="1">
+          <mxGeometry height="40" width="120" x="130" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="compliance" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFE0B2;strokeColor=#FB8C00;fontSize=10;fontStyle=1;" value="KYC / AML&#xa;合规审查" vertex="1">
+          <mxGeometry height="50" width="110" x="365" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fx_example" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#F3E5F5;strokeColor=#9673a6;fontSize=9;fontStyle=0;dashed=1;" value="客户看到: 1 EUR = 1.0900 USD&#xa;实际批发: 1 EUR = 1.0950 USD&#xa;利润 ≈ 50 pips (46 bps)" vertex="1">
+          <mxGeometry height="50" width="180" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="profit" parent="1" style="text;html=1;fontSize=14;fontStyle=5;align=center;fillColor=none;strokeColor=none;fontColor=#b85450;" value="利润来源" vertex="1">
+          <mxGeometry height="30" width="100" x="690" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" parent="1" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#9673a6;" value="1. FX Spread 汇率差" vertex="1">
+          <mxGeometry height="20" width="150" x="690" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#d6b656;" value="2. Float Income 资金沉淀" vertex="1">
+          <mxGeometry height="20" width="160" x="690" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#9673a6;" value="3. Netting 内部对冲节省" vertex="1">
+          <mxGeometry height="20" width="160" x="690" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#d6b656;" value="4. Hedging 对冲产品利润" vertex="1">
+          <mxGeometry height="20" width="160" x="690" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" parent="1" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#666666;" value="5. Transaction Fee 手续费" vertex="1">
+          <mxGeometry height="20" width="160" x="690" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="sender" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#6c8ebf;fontSize=10;fontStyle=1;" target="senderBank" value="① EUR 付款">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="senderBank" style="edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;strokeColor=#6c8ebf;fontSize=10;" target="platform" value="② 转入平台（SEPA）">
+          <mxGeometry relative="1" x="-0.3514" y="-15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2b" edge="1" parent="1" source="compliance" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#FB8C00;fontSize=9;dashed=1;" target="platform" value="合规审查">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="poolEUR" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#9673a6;fontSize=10;fontStyle=1;" target="fx" value="④ 兑换">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="fx" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#82b366;fontSize=10;fontStyle=1;" target="poolUSD" value="⑤ 输出 USD">
+          <mxGeometry relative="1" x="-0.2195" y="13" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="510" y="330" />
+              <mxPoint x="510" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5b" edge="1" parent="1" source="fx" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#9673a6;dashed=1;fontSize=9;" target="netting">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5c" edge="1" parent="1" source="fx" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#666666;dashed=1;fontSize=9;exitX=0.453;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" target="interbank">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="372" />
+              <mxPoint x="350" y="400" />
+              <mxPoint x="290" y="400" />
+              <mxPoint x="290" y="440" />
+            </Array>
+            <mxPoint x="350" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="poolUSD" style="edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;strokeColor=#82b366;fontSize=10;" target="receiverBank" value="⑥ 本地付款（Wire/ACH）">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="receiverBank" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#82b366;fontSize=10;fontStyle=1;" target="receiver" value="⑦ USD 到账">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFloat" edge="1" parent="1" source="platform" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#d6b656;dashed=1;" target="float">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHedge" edge="1" parent="1" source="platform" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#d6b656;dashed=1;" target="hedge">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYMGS9Lz7iHn_rprKtVF-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#e07a1a, #7e3f03);strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+              <mxPoint x="210" y="250" />
+            </Array>
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

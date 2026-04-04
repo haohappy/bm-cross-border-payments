@@ -1,0 +1,105 @@
+<mxfile host="Claude Code">
+  <diagram name="跨境支付企业商业模式画布" id="bmc1">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="950" pageHeight="520">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="title" value="跨境支付企业商业模式画布（Business Model Canvas）" style="text;html=1;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5" width="700" height="35" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="kp_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F3E5F5;strokeColor=#9673a6;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="160" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="kp_title" value="重要伙伴&#xa;Key Partners" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#7B1FA2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="55" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="kp_content" value="• 银行间外汇市场&#xa;  （流动性提供方）&#xa;• 各国本地银行&#xa;  （清算与结算网络）&#xa;• 支付网络&#xa;  （SWIFT / SEPA / ACH）&#xa;• 监管机构&#xa;  （牌照与合规）&#xa;• 技术服务商&#xa;  （反欺诈 / KYC）" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#4A148C;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="15" y="90" width="150" height="230" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ka_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E3F2FD;strokeColor=#6c8ebf;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="160" height="135" as="geometry"/>
+        </mxCell>
+        <mxCell id="ka_title" value="关键活动&#xa;Key Activities" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#1565C0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="55" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="ka_content" value="• 外汇交易与定价&#xa;• 资金清算与结算&#xa;• 合规审查（KYC/AML）&#xa;• 内部撮合（Netting）&#xa;• 对冲产品设计&#xa;• 支付通道维护" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#0D47A1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="185" y="90" width="150" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="kr_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E3F2FD;strokeColor=#6c8ebf;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="195" width="160" height="135" as="geometry"/>
+        </mxCell>
+        <mxCell id="kr_title" value="核心资源&#xa;Key Resources" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#1565C0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="200" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="kr_content" value="• 各国支付牌照&#xa;• 全球银行账户网络&#xa;• FX 引擎与定价算法&#xa;• 客户沉淀资金&#xa;• 交易数据与风控模型&#xa;• 技术平台与 API" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#0D47A1;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="185" y="235" width="150" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="vp_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#FFF8E1;strokeColor=#d6b656;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="180" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="vp_title" value="价值主张&#xa;Value Propositions" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#F57F17;" vertex="1" parent="1">
+          <mxGeometry x="355" y="55" width="170" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="vp_content" value="• 比银行更低的汇率成本&#xa;  （FX Spread 节省 40-60%）&#xa;• 更快的到账速度&#xa;  （T+0 ~ T+2 vs 银行 T+3~5）&#xa;• 多币种账户管理&#xa;  （一站式收付款）&#xa;• 汇率风险对冲&#xa;  （远期/期权锁定成本）&#xa;• API 嵌入式集成&#xa;  （无缝接入业务系统）&#xa;• 透明定价&#xa;  （所见即所得）" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#E65100;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="355" y="90" width="170" height="230" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="cr_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E8F5E9;strokeColor=#82b366;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="160" height="135" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr_title" value="客户关系&#xa;Customer Relations" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#2E7D32;" vertex="1" parent="1">
+          <mxGeometry x="545" y="55" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr_content" value="• 自助式平台 + API&#xa;• 专属客户经理（大客户）&#xa;• 对冲顾问服务&#xa;• 嵌入式合作&#xa;  （平台/ERP 集成）&#xa;• 高迁移成本锁定" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#1B5E20;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="545" y="90" width="150" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ch_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E8F5E9;strokeColor=#82b366;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="540" y="195" width="160" height="135" as="geometry"/>
+        </mxCell>
+        <mxCell id="ch_title" value="渠道&#xa;Channels" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#2E7D32;" vertex="1" parent="1">
+          <mxGeometry x="545" y="200" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="ch_content" value="• 线上平台（Web/App）&#xa;• 开发者 API / SDK&#xa;• 渠道合作伙伴分销&#xa;• 银行白标合作&#xa;• 行业会议与BD&#xa;• 内容营销与SEO" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#1B5E20;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="545" y="235" width="150" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="cs_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#FCE4EC;strokeColor=#b85450;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="160" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="cs_title" value="客户细分&#xa;Customer Segments" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#C62828;" vertex="1" parent="1">
+          <mxGeometry x="715" y="55" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="cs_content" value="B2B（主要）&#xa;• 跨境电商卖家&#xa;• 进出口贸易企业&#xa;• 跨国公司（薪资/供应商）&#xa;• SaaS 平台&#xa;  （嵌入式支付）&#xa;• 金融机构&#xa;  （银行白标）&#xa;&#xa;B2C&#xa;• 海外留学/移民汇款&#xa;• 自由职业者收款" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#B71C1C;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="715" y="90" width="150" height="230" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="cost_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#EFEBE9;strokeColor=#795548;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="345" width="420" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="cost_title" value="成本结构 Cost Structure" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#4E342E;" vertex="1" parent="1">
+          <mxGeometry x="15" y="350" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cost_content" value="• 银行通道费与清算成本（最大成本项，占收入 30-40%）&#xa;• FX 对冲成本（银行间市场交易费用）&#xa;• 合规与牌照成本（各国监管申请与维护）&#xa;• 技术研发（平台、API、风控系统）&#xa;• 获客成本 CAC（营销、BD、渠道佣金）&#xa;• 运营与客服" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#3E2723;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="15" y="380" width="410" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="rev_box" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E8F5E9;strokeColor=#43A047;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="450" y="345" width="420" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="rev_title" value="收入来源 Revenue Streams" style="text;html=1;fontSize=13;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#2E7D32;" vertex="1" parent="1">
+          <mxGeometry x="455" y="350" width="220" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rev_content" value="• FX Spread 汇率差（核心，占收入 50%+）&#xa;• Float Income 资金沉淀利息（高利率环境下显著）&#xa;• Transaction Fee 交易手续费（0.5%-3%）&#xa;• Hedging 对冲产品溢价（远期/期权/结构化产品）&#xa;• 增值服务（企业卡 Interchange、供应链金融、税务代缴）&#xa;• API/SaaS 订阅费（嵌入式金融）" style="text;html=1;fontSize=10;align=left;fillColor=none;strokeColor=none;fontColor=#1B5E20;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="380" width="410" height="80" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
