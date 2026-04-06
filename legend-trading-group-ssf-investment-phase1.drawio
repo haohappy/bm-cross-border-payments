@@ -1,0 +1,190 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="SSF Investment Structure" id="ssf-investment">
+    <mxGraphModel dx="1357" dy="2841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;" value="Legend Trading Group&amp;nbsp;&lt;div&gt;Proposed Investment Structure (Thailand SSF)&amp;nbsp; - Phase 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="700" x="410" y="-1790" as="geometry" />
+        </mxCell>
+        <mxCell id="hao" parent="1" style="shape=mxgraph.basic.person;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=11;verticalAlign=top;spacingTop=18;" value="&lt;b&gt;Hao Chen&lt;/b&gt;&lt;br&gt;Ultimate Beneficial Owner&lt;br&gt;US Citizen" vertex="1">
+          <mxGeometry height="90" width="140" x="610" y="-1720" as="geometry" />
+        </mxCell>
+        <mxCell id="ssf" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E0;strokeColor=#FF8C00;fontColor=#333333;fontSize=11;fontStyle=0;strokeWidth=2;" value="&lt;b&gt;Thailand SSF&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Strategic Investor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="200" x="1170" y="-1705" as="geometry" />
+        </mxCell>
+        <mxCell id="others" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=10;" value="&lt;b&gt;Other Shareholders&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="150" y="-1610" as="geometry" />
+        </mxCell>
+        <mxCell id="global" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;strokeWidth=2;" value="&lt;b&gt;Legend Global Holdings Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Cayman Islands&lt;br&gt;Group Holding Company (NEW)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="320" x="520" y="-1520" as="geometry" />
+        </mxCell>
+        <mxCell id="lhus" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;Legend Holdings US Inc.&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;United States&lt;br&gt;Core US Holding Platform&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="130" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="tbg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" value="&lt;b&gt;Treasure Box Global&lt;br&gt;Holdings Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Cayman Islands&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="380" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="lfhi" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;Legend Financial Holdings&lt;br&gt;(Ireland) Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Ireland&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="640" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="lhkh" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;Legend HK Holdings&lt;br&gt;Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Hong Kong&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="920" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="lnh" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="&lt;b&gt;Legend Nexus Holdings&lt;br&gt;Pte Ltd&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Singapore&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="1160" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="lti" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;Legend Trading Inc.&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;United States&lt;br&gt;MSB Registered&lt;br&gt;Digital Asset Trading&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbus" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;TreasureBox US Inc.&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;United States&lt;br&gt;MSB + MTL&lt;br&gt;Digital Asset Trading + Payments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="385" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="lfi" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;Legend Financial&lt;br&gt;Ireland Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Ireland — Dublin&lt;br&gt;MiCA CASP | EMI (Applying)&lt;br&gt;Digital Assets Trading + Payments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="640" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhkm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;Legend HK Markets&lt;br&gt;Limited&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Hong Kong&lt;br&gt;SFC Type 1 License&lt;br&gt;(Pre-application)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="200" x="920" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="lns" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="&lt;b&gt;Legend Nexus SG&lt;br&gt;Pte. Ltd.&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:9px&quot;&gt;Singapore&lt;br&gt;MAS MPI + DPT License&lt;br&gt;(Applying)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="1165" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="e_hao_global" edge="1" parent="1" source="hao" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="global" value="90.1%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_ssf_global" edge="1" parent="1" source="ssf" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;strokeColor=#FF8C00;" target="global" value="9.9%">
+          <mxGeometry relative="1" x="-0.0556" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1270" y="-1610" />
+              <mxPoint x="720" y="-1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_global_lhus" edge="1" parent="1" source="global" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lhus" value="72.1%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_global_tbg" edge="1" parent="1" source="global" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="tbg" value="91%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="investor_ie" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=10;" value="&lt;b&gt;Investor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="787" y="-1430" as="geometry" />
+        </mxCell>
+        <mxCell id="e_investor_lfhi" edge="1" parent="1" source="investor_ie" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=10;strokeColor=#999999;strokeWidth=1;dashed=1;" target="lfhi" value="9%">
+          <mxGeometry relative="1" x="-0.6407" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_global_lfhi" edge="1" parent="1" source="global" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lfhi" value="81.1%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_global_lhkh" edge="1" parent="1" source="global" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lhkh" value="90.1%">
+          <mxGeometry relative="1" x="0.3191" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_global_lnh" edge="1" parent="1" source="global" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lnh" value="90.1%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_others_lhus" edge="1" parent="1" source="others" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=10;strokeColor=#999999;strokeWidth=1;dashed=1;" target="lhus" value="18%">
+          <mxGeometry relative="1" x="-0.7091" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_lhus_tbg" edge="1" parent="1" source="lhus" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=10;strokeWidth=1;dashed=1;strokeColor=#d6b656;" target="tbg" value="9%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_ssf_lhus" edge="1" parent="1" source="ssf" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;orthogonalLoop=1;html=1;fontSize=10;fontStyle=1;strokeWidth=2;strokeColor=#FF8C00;dashed=1;dashPattern=8 4;" target="lhus" value="9.9%">
+          <mxGeometry relative="1" x="0.7891" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1270" y="-1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_ssf_lfhi" edge="1" parent="1" source="ssf" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;orthogonalLoop=1;html=1;fontSize=10;fontStyle=1;strokeWidth=2;strokeColor=#FF8C00;dashed=1;dashPattern=8 4;" target="lfhi" value="9.9%">
+          <mxGeometry relative="1" x="0.6706" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1010" y="-1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_ssf_lhkh" edge="1" parent="1" source="ssf" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;orthogonalLoop=1;html=1;fontSize=10;fontStyle=1;strokeWidth=2;strokeColor=#FF8C00;dashed=1;dashPattern=8 4;entryX=0.592;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" target="lhkh" value="9.9%">
+          <mxGeometry relative="1" x="0.5075" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1150" y="-1330" />
+              <mxPoint x="1270" y="-1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_ssf_lnh" edge="1" parent="1" source="ssf" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;orthogonalLoop=1;html=1;fontSize=10;fontStyle=1;strokeWidth=2;strokeColor=#FF8C00;dashed=1;dashPattern=8 4;" target="lnh" value="9.9%">
+          <mxGeometry relative="1" x="-0.2353" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1270" y="-1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_lhus_lti" edge="1" parent="1" source="lhus" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lti" value="100%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_tbg_tbus" edge="1" parent="1" source="tbg" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="tbus" value="100%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lfhi_lfi" edge="1" parent="1" source="lfhi" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lfi" value="100%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lhkh_lhkm" edge="1" parent="1" source="lhkh" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lhkm" value="100%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lnh_lns" edge="1" parent="1" source="lnh" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;html=1;fontSize=11;fontStyle=1;strokeWidth=2;" target="lns" value="100%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="note" parent="1" style="shape=note;size=14;whiteSpace=wrap;html=1;fillColor=#FFF4E0;strokeColor=#FF8C00;fontSize=10;align=left;spacingLeft=8;spacingRight=8;" value="&lt;b&gt;SSF Total Economic Interest per Holdco:&lt;/b&gt;&lt;br&gt;9.9% direct + 9.9% x 90.1% indirect = &lt;b&gt;~18.8%&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1295" y="-1630" as="geometry" />
+        </mxCell>
+        <mxCell id="leg1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="120" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg1t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="United States" vertex="1">
+          <mxGeometry height="20" width="80" x="107" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="230" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg2t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="Cayman Islands" vertex="1">
+          <mxGeometry height="20" width="90" x="217" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="360" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg3t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="Ireland" vertex="1">
+          <mxGeometry height="20" width="60" x="347" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="460" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg4t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="Hong Kong" vertex="1">
+          <mxGeometry height="20" width="70" x="447" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="570" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg5t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="Singapore" vertex="1">
+          <mxGeometry height="20" width="70" x="557" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8C00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="14" width="20" x="680" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="leg6t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="Thailand SSF Investment" vertex="1">
+          <mxGeometry height="20" width="120" x="667" y="-942" as="geometry" />
+        </mxCell>
+        <mxCell id="leg7t" parent="1" style="text;html=1;fontSize=9;align=left;fillColor=none;strokeColor=none;" value="&lt;font style=&quot;font-size:9px&quot;&gt;—— Direct ownership&amp;nbsp; &amp;nbsp;&lt;font color=&quot;#FF8C00&quot;&gt;- - - SSF direct investment in Holdcos&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="320" x="802" y="-942" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
